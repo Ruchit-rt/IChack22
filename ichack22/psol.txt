@@ -1,0 +1,6 @@
+What we leave to the automaton and what we do ourselves?
+0 1 1 2 3 5
+0 950
+6 6 DrEvil
+012456
+4 6 2 5 3 1
